@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Buku Induk SMPN 17 Semarang
 An administration book website that created to digitize the manual administration book of Junior High School 17 Semarang. Compiled in order to fulfill internship subject and Kampus Mengajar final project from Merdeka Belajar Kampus Merdeka program.
 
@@ -11,7 +10,3 @@ The objectives of this study are as follows:
 •	Test and ensure that the loan application that has been made to run properly.
 
 •	To find out the steps on how to use the administration book website.
-
-=======
-# AppBukuInduk
->>>>>>> 25c34c1 (first commit)
